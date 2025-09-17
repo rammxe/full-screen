@@ -25,6 +25,8 @@ header {
 header ul {
   width: 100%;
   display: flex;
+  font-size: 14px;
+  justify-content: center;
 }
 
 header li {
